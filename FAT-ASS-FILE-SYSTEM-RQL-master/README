@@ -1,0 +1,41 @@
+Welcome to Project 3!
+
+Quinton Taylor
+Luiz Hosfeld
+Ricardo Da Costa
+
+File Listing//////////////////////////////////////
+	file_explorer.c
+	README
+	makefile
+
+Makefile Instructions/////////////////////////////
+	type make, makefile implemented
+
+Log + Division of Labor///////////////////////////
+	All team members have no complaints about divisions of labor
+	While Luiz definitely handled most of the typing, Quinton and Luiz were
+	both present, feeding relevant info and a part of the decision making process
+	for the project. 
+
+	Most of our development faced issues with getting the preliminary functions to work,
+	and as such, worrying over them lead to a prolonged hiatus from handling the others.
+
+Docs//////////////////////////////////////////////
+	Implemented:
+		exit
+		info
+		ls
+		cd
+		create
+		size
+		Our Tears
+
+	Not Implemented:
+		mkdir
+		open
+		close
+		read
+		write
+		rm
+		rmdir
